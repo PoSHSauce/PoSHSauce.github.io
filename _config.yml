@@ -23,7 +23,7 @@ email: poshsauce@outlook.com
 description: Attempting to solve all the IT issues in the world via Powershell one script at a time.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://poshsauce.github.io/"
-twitter_username: poshsauce
+twitter_username: SaucePosh
 github_username:  poshsauce
 
 # Build settings
